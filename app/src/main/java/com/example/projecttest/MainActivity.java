@@ -11,11 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //brach 1 değişikliği primitive
-
-
-        // 2. branch da yapılan değişiklik bu conflict oluşturacak bir değişiklik
-
         //3. branch değişikliği
     }
 }
