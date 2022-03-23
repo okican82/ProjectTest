@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 2. branch da yapılan değişiklik bu conflict oluşturacak bir değişiklik
+
+        //3. branch değişikliği
     }
 }
